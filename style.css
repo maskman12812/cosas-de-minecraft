@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(270deg, blue, black, yellow);
+    text-align:center;
+    color: white;
+  }
+h1{
+    font-family: 'Minecrafter Alt', sans-serif;
+    font-family: 'Minecrafter', sans-serif;
+
+}  
